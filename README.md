@@ -66,10 +66,4 @@ The dataset contains:
 ## 📷 Dashboard Preview
 ![EV Sales Dashboard](https://drive.google.com/uc?id=1gsH-eFkcoEF6wFR_g19K29TD7pIUXxOy)
 
----
 
-
----
-
-## 🔗 Live Dashboard (Optional)
-If published to Power BI Service, [click here to view the interactive dashboard](#).
